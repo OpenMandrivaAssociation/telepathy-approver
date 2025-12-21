@@ -8,6 +8,7 @@ Url:		https://projects.kde.org/projects/playground/network/telepathy/telepathy-a
 Source0:	telepathy-approver-%git.tar.bz2
 License:	GPLv2+
 Group:		Graphical desktop/KDE
+BuildRequires:	make
 BuildRequires:	kdelibs4-devel
 BuildRequires:	telepathy-qt4-devel
 
